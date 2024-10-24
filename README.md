@@ -1,6 +1,6 @@
 # Multidownloader_Go
 
-![Preview](https://placehold.co/600x400 "MyEshop_Vue")
+![Preview](https://placehold.co/600x400 "Multidownloader_Go")
 
 
 ## :information_source: About  
@@ -32,8 +32,8 @@ go run main.go
 http://localhost:8080
 ```
 
-## :warning: Prerequisites
-To run correctly this project, you'll a server use : [Vite 5.3.1](https://vitejs.dev/ "Vite official website")
+<!--## :warning: Prerequisites
+To run correctly this project, you'll a server use : [Vite 5.3.1](https://vitejs.dev/ "Vite official website")-->
 
 ## :thinking: How does it run ?
 Click on the button to send a request to server and downloader 2 files at the same time
